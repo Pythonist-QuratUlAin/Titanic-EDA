@@ -11,6 +11,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
 ![image](https://github.com/Pythonist-QuratUlAin/Titanic-EDA/assets/109209138/b7f21217-2731-43f1-a371-0c93fbfefee3)
 
 ![image](https://github.com/Pythonist-QuratUlAin/Titanic-EDA/assets/109209138/79740ce1-cc4e-46d0-b603-022e8ffcfd87)
+
     * Overall all Pclass Female members have highest surivival ratio
     * PClass 1 & 2 female survival rate is greater than 90%
     * Pclass 3 have lowest survival rate.
@@ -18,6 +19,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
     
     
 ![image](https://github.com/Pythonist-QuratUlAin/Titanic-EDA/assets/109209138/984e827d-7235-48b6-b190-ec38b339396f)
+
 Count of Age-wise total survivals: 
   * young    178
   * adult    119
